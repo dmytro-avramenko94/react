@@ -1,0 +1,15 @@
+.card-wrap {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+}
+
+.card {
+    border: 3px solid;
+    border-radius: 15px;
+    padding: 0 10px 10px;
+}
+
+.green {
+    border: 3px solid orange;
+}
