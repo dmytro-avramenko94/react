@@ -1,0 +1,12 @@
+:root {
+    --main-font: "Work Sans", sans-serif;
+    --sub-font: "Open Sans", sans-serif;
+
+
+    --h1: 300 83px/83px var(--main-font)
+}
+
+.h1 {
+    font: var(--h1);
+    text-transform: uppercase;
+}

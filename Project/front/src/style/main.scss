@@ -1,0 +1,16 @@
+//Variable
+@import './variable/fonts.scss';
+@import './variable/colors.scss';
+
+
+//Global
+@import './global/index.scss';
+@import './global/reset.scss';
+
+//Components
+@import './components/header.scss';
+@import './components/footer.scss';
+
+//Pages
+@import './pages/home-page.scss';
+@import './pages/collection.scss';
